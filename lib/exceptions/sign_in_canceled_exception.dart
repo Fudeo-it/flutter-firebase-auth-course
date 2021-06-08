@@ -1,0 +1,1 @@
+class SignInCanceledException implements Exception {}
