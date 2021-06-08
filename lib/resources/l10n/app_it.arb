@@ -1,0 +1,23 @@
+{
+  "app_name": "Telegram",
+
+  "action_open_settings": "Impostazioni",
+  "action_start_chatting": "Inizia a messaggiare",
+
+  "label_no_connection_msg1": "Oh no!",
+  "label_no_connection_msg2": "Nessuna connessione disponibile!",
+
+  "welcome_header_1": "Telegram",
+  "welcome_header_2": "Veloce",
+  "welcome_header_3": "Gratis",
+  "welcome_header_4": "Potente",
+  "welcome_header_5": "Sicuro",
+  "welcome_header_6": "Basato sul cloud",
+
+  "welcome_description_1": "L'app di messaggistica più veloce al mondo. E' gratuita e sicura.",
+  "welcome_description_2": "Telegram invia i messaggi più velocemente di qualsiasi altra applicazione.",
+  "welcome_description_3": "Telegram è gratuito per sempre. Nessuna pubblicità Nessun costo di abbonamento.",
+  "welcome_description_4": "Telegram non limita la dimensione dei tuoi contenuti multimediali e delle tue chat.",
+  "welcome_description_5": "Telegram protegge i tuoi messaggi dagli attacchi degli hacker.",
+  "welcome_description_6": "Telegram ti consente di accedere ai tuoi messaggi da più dispositivi."
+}

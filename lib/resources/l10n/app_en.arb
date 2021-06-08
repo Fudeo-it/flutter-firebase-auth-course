@@ -1,0 +1,24 @@
+{
+  "app_name": "Telegram",
+
+  "action_open_settings": "Open Settings",
+  "action_start_chatting": "Start chatting",
+
+  "label_no_connection_msg1": "Oh no!",
+  "label_no_connection_msg2": "No connection available!",
+
+  "welcome_header_1": "Telegram",
+  "welcome_header_2": "Fast",
+  "welcome_header_3": "Free",
+  "welcome_header_4": "Powerful",
+  "welcome_header_5": "Secure",
+  "welcome_header_6": "Cloud-based",
+
+  "welcome_description_1": "The world's fastest messaging app. It is free and secure.",
+  "welcome_description_2": "Telegram delivers messages faster than any other application.",
+  "welcome_description_3": "Telegram is free forever. No ads. No subscription fees.",
+  "welcome_description_4": "Telegram has no limits on the size of your media and chats.",
+  "welcome_description_5": "Telegram keeps your messages safe from hacker attacks.",
+  "welcome_description_6": "Telegram lets you access your messages from multiple devices."
+
+}
